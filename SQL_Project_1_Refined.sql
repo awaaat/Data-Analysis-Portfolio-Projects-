@@ -1,5 +1,3 @@
-
-
 select * from dbo.Covid_Vaccinations_Dataset
 Order by 3,4 8
 
